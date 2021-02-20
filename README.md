@@ -1,4 +1,5 @@
-COD_ATIVIDADE=
+COD_ATIVIDADE: Não fornecido.
+Nome: Dener Cezati Canal
 
 Você está desenvolvendo um sistema, que dentre outras regras de negócio apresenta a seguinte:
 
