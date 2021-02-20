@@ -12,8 +12,6 @@ package com.dener.exercicio_20_02;
 public class Funcionario {
 
     private String cargoFuncionario;
-
-    public Funcionario(){}
     
     public Funcionario(String cargoFuncionario) {
         this.cargoFuncionario = cargoFuncionario;
@@ -22,13 +20,9 @@ public class Funcionario {
     public String getCargoFuncionario() {
         return cargoFuncionario;
     }
-
-    public void setCargoFuncionario(String cargoFuncionario) {
-        this.cargoFuncionario = cargoFuncionario;
-    }
     
     public Boolean pagar(){
-        System.out.println(this.getCargoFuncionario() + " PAGOU!");
+        System.out.println(this.getCargoFuncionario() + " APROVOU!");
         return true;
     }
 }
