@@ -6,7 +6,6 @@
 package com.dener.exercicio_20_02;
 
 import java.util.List;
-import java.util.Scanner;
 
 /**
  *
